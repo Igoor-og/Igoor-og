@@ -1,168 +1,221 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Igoor-og&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="profile views" />
-</p>
-
-<hr />
-
-<div align="center">
-  <pre>
-   ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-   █  IGOOR - SYSTEM     █
-   █       ONLINE        █
-   ▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
-  </pre>
-</div>
-
-<h1 align="center">⚡ <code>IGOOR-OG</code> ⚡</h1>
-
-<p align="center">
-  <b>Desenvolvedor Versátil</b> · <b>Problem Solver</b> · <b>Vibe Coder</b> &nbsp;·&nbsp; <b>Estagiário de Infraestrutura &amp; Redes</b>
+  <img src="https://komarev.com/ghpvc/?username=Igoor-og&style=for-the-badge&color=ff0000&label=PROFILE%20VIEWS" alt="profile views" />
 </p>
 
 <p align="center">
-  <kbd>▸ BANNER DE INICIALIZAÇÃO · CARREGANDO PERFIL · 100% ◂</kbd>
+  <img src="assets/banner.svg" alt="IGOOR-OG banner" width="900" />
+</p>
+
+<p align="center">
+  <kbd>▸ BANNER DE INICIALIZAÇÃO · <b>100%</b> · SEM ERROS ◂</kbd>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3800&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=false&width=680&height=46&lines=Full+Stack+%2F+Vibe+Coder;Estagi%C3%A1rio+de+Infraestrutura+%26+Redes;T%C3%A9cnico+em+An%C3%A1lise+%26+Desenvolvimento+de+Sistemas;Creator+%26+Builder+de+SaaS%2C+E-commerce+e+Apps" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3800&pause=1200&color=FF2222&center=true&vCenter=true&multiline=false&width=680&height=46&lines=Full+Stack+%2F+Vibe+Coder;Estagi%C3%A1rio+de+Infraestrutura+%26+Redes;T%C3%A9cnico+em+An%C3%A1lise+%26+Desenvolvimento+de+Sistemas;Creator+%26+Builder+de+SaaS%2C+E-commerce+e+Apps" alt="Typing Animation" />
   </a>
 </p>
 
-<hr />
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="860" />
+</p>
 
 ---
 
-## 🧑‍🚀 SOBRE MIM
+## <img src="assets/pulse.svg" alt="" width="14" height="14" /> 01 · SOBRE MIM
+
+<p align="center">
+  <sup><code>[ MODULO_PESSOAL ]</code></sup>
+</p>
 
 <div align="center">
-  <b><i>Se preciso de um app ou site, eu vou lá e faço.</i></b>
+  <b><i>"Se preciso de um app ou site, eu vou lá e faço."</i></b>
 </div>
 
 <p align="center">
-  Developer de mentalidade projetada para <b>resolver problemas</b>. Transitando entre o <b>Vibe Coding</b> (prototipagem e entrega rápida com low-code) e o <b>código raiz</b>, com base técnica consolidada. Na ativa desde <b>dezembro de 2025</b>, já entregando projetos reais de ponta a ponta.
+  Developer versátil com mentalidade de <b>problem solver</b>: transita entre <b>Vibe Coding / Low-Code</b> (entrega rápida) e <b>código raiz</b> (base sólida). Desde <b>dezembro de 2025</b> construindo produtos reais — do terminal da infraestrutura até o deploy completo de um SaaS.
 </p>
 
-<br />
-
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Projetos%20Entregues-12%2B-00c853?style=for-the-badge&labelColor=0a0e17" alt="12+ projetos" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Estagi%C3%A1rio-Infraestrutura%20%26%20Redes-00a2ff?style=for-the-badge&labelColor=0a0e17" alt="Estágio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/T%C3%A9cnico-ADS%20%7C%203%C2%B0%20Ano-7b2cbf?style=for-the-badge&labelColor=0a0e17" alt="Técnico ADS" /></a>
+  <img src="https://img.shields.io/badge/Projetos%20Entregues-12%2B-ff0000?style=for-the-badge&labelColor=111111" alt="12+ projetos" />
+  <img src="https://img.shields.io/badge/N%C3%ADvel-Estagi%C3%A1rio%20%E2%80%A2%20Infra%20%26%20Redes-ff0000?style=for-the-badge&labelColor=111111" alt="Estágio" />
+  <img src="https://img.shields.io/badge/T%C3%A9cnico-ADS%20%E2%80%A2%203%C2%B0%20Ano-ff0000?style=for-the-badge&labelColor=111111" alt="Técnico ADS" />
 </p>
 
 <p align="center">
   🛰️ <b>Atuação:</b> Estagiário em Infraestrutura e Redes
   &nbsp;·&nbsp; 🗓️ <b>Na área desde:</b> Dezembro de 2025
-  &nbsp;·&nbsp; 🎓 <b>Formação:</b> 3º ano Técnico em Análise e Desenvolvimento de Sistemas (ADS)
-  &nbsp;·&nbsp; 🗺️ <b>Próximo passo:</b> Engenharia de Software / Engenharia de Dados
+  &nbsp;·&nbsp; 🎓 <b>Formação:</b> 3º ano Técnico em ADS
 </p>
 
 <p align="center">
-  🏗️ <b>Base sólida:</b> Programação Avançada, UI/UX Design e Desenvolvimento Mobile
-  &nbsp;·&nbsp; 🚀 <b>Entregas:</b> E-commerce, Landing Pages, Apps Mobile, CRMs e SaaS
+  🏗️ <b>Base:</b> Programação Avançada · UI/UX Design · Desenvolvimento Mobile
+  &nbsp;·&nbsp; 🚀 <b>Entregas:</b> E-commerce · Landing Pages · Apps · CRMs · SaaS
+  &nbsp;·&nbsp; 🗺️ <b>Visão:</b> Engenharia de Software / Engenharia de Dados
+</p>
+
+<p align="center">
+  <sup>
+    <img src="assets/pulse.svg" alt="" width="10" height="10" /> impacto — transformar código em produto. do terminal da infra ao deploy. sem pular etapas.
+  </sup>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="860" />
 </p>
 
 ---
 
-## 🛠️ TECH STACK & FERRAMENTAS
-
-<h3 align="center">🖥️ Core &amp; Front-end — <i>Domínio</i></h3>
+## <img src="assets/pulse.svg" alt="" width="14" height="14" /> 02 · SISTEMA DE HABILIDADES
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-ff2e97?style=for-the-badge&labelColor=0a0e17" alt="UI/UX Design" />
+  <sup><code>[ skill_matrix · carregando telemetria ]</code></sup>
 </p>
 
-<h3 align="center">⚙️ Linguagens em Evolução — <i>Suporte</i></h3>
+<br />
+
+<p align="center"><b>🖥️ HTML · CSS · JavaScript</b> &nbsp;<sup>domínio</sup><br/><img src="assets/bar_front.svg" alt="HTML CSS JS - 92%" width="560" /></p>
+
+<p align="center"><b>⚙️ PHP</b> &nbsp;<sup>em evolução</sup><br/><img src="assets/bar_php.svg" alt="PHP - 72%" width="560" /></p>
+
+<p align="center"><b>🗄️ SQL · Supabase</b> &nbsp;<sup>banco de dados &amp; backend</sup><br/><img src="assets/bar_sql.svg" alt="SQL Supabase - 68%" width="560" /></p>
+
+<p align="center"><b>🧬 C · C# · Java</b> &nbsp;<sup>em evolução</sup><br/><img src="assets/bar_cs.svg" alt="C C# Java - 60%" width="560" /></p>
+
+<p align="center"><b>🛰️ Redes · Infraestrutura</b> &nbsp;<sup>campo de atuação</sup><br/><img src="assets/bar_redes.svg" alt="Redes Infra - 80%" width="560" /></p>
+
+<p align="center"><b>🎨 UI/UX · Prototipagem</b> &nbsp;<sup>design &amp; experiência</sup><br/><img src="assets/bar_uiux.svg" alt="UI UX - 86%" width="560" /></p>
+
+<p align="center"><b>⚡ Vibe Coding · Low-Code</b> &nbsp;<sup>velocidade de entrega</sup><br/><img src="assets/bar_vibe.svg" alt="Vibe Coding - 95%" width="560" /></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="assets/divider.svg" alt="" width="860" />
+</p>
+
+---
+
+## 03 · TECH STACK &amp; FERRAMENTAS
+
+<h3 align="center">🖥️ Core &amp; Front-end — Domínio</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=ff0000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=ff0000" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ff0000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-ff0000?style=for-the-badge&labelColor=111111" alt="UI/UX Design" />
+</p>
+
+<h3 align="center">⚙️ Linguagens em Evolução — Suporte</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=ff0000" alt="PHP" />
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=ff0000" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=ff0000" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ff0000" alt="Java" />
 </p>
 
 <h3 align="center">🗄️ Banco de Dados &amp; Backend</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=ff0000" alt="SQL" />
+  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=ff0000" alt="Supabase" />
 </p>
 
 <h3 align="center">🛰️ Infraestrutura &amp; Ferramentas</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Redes%20%26%20Infraestrutura-00a2ff?style=for-the-badge&labelColor=0a0e17" alt="Redes" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vibe%20Coding-7b2cbf?style=for-the-badge&labelColor=0a0e17" alt="Vibe Coding" />
-  <img src="https://img.shields.io/badge/Low-Code-39ff14?style=for-the-badge&labelColor=0a0e17" alt="Low-Code" />
+  <img src="https://img.shields.io/badge/Redes%20%26%20Infra-ff0000?style=for-the-badge&labelColor=111111" alt="Redes" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ff0000" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ff0000" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-ff0000?style=for-the-badge&labelColor=111111" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/Low-Code-ff0000?style=for-the-badge&labelColor=111111" alt="Low-Code" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="860" />
 </p>
 
 ---
 
-## 📦 PROJETOS EM DESTAQUE
+## <img src="assets/pulse.svg" alt="" width="14" height="14" /> 04 · STATUS DO SISTEMA
+
+<p align="center">
+  <sup><code>[ live_status · estado atual ]</code></sup>
+</p>
 
 <div align="center">
-  <i>Experiência prática comprovada — de protótipos rápidos a produtos completos.</i>
-</div>
-
-<br />
-
-| | | |
-| :-: | :-: | :-: |
-| 🛒 **E-COMMERCE**<br><sub>B2C/B2B, catálogos, checkout e integrações completas.</sub><br><img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square" alt="online" /> | 🚀 **LANDING PAGES**<br><sub>Alta conversão, design orientado a objetivo e copy detalhada.</sub><br><img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square" alt="online" /> | 📊 **CRMs**<br><sub>Pipelines de vendas, gestão de clientes e automação de fluxos.</sub><br><img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square" alt="online" /> |
-| 📱 **APPS MOBILE**<br><sub>Mobile-first, do protótipo navegável à publicação.</sub><br><img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square" alt="online" /> | ☁️ **SAAS**<br><sub>Dashboards, multi-tenant e produtos como serviço.</sub><br><img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square" alt="online" /> | 🔮 **PRÓXIMO BUILD**<br><sub>Engenharia de Software &amp; Engenharia de Dados.</sub><br><img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-00e5ff?style=flat-square" alt="in progress" /> |
-
----
-
-## 🖥️ STATUS DO SISTEMA
-
-<div align="center">
-  <i>Estado atual em tempo real (mental). Execute localmente.</i>
+  <sup>telemetria do desenvolvedor — execute localmente:</sup>
 </div>
 
 <br />
 
 ```ansi
-[36mIgor@dev-core[0m:[34m~[0m$ ./system_status.sh
-[32m[OK][0m Loading user profile ............. Done
-[32m[OK][0m Current role ..................... Intern - Infrastructure & Networks
-[32m[OK][0m Field experience ................. Building since Dec/2025
-[32m[OK][0m Projects delivered .............. 12+
-[33m[..][0m current_focus ................... Vibe Coding + Low-Code + Code Raiz
-[33m[..][0m learning ........................ PHP | SQL | Supabase | C | C# | Java
-[36m[=>][0m next_goal ...................... Software / Data Engineering
-[1;35m[SYSTEM][0m Ready. Always building. ✦
+[31mIgor@dev-core[0m:[90m~/profile[0m$ ./system_status.sh
+[31m[OK][0m Loading user profile ......... [90mDone[0m
+[31m[OK][0m Current role ................ [37mIntern · Infrastructure & Networks[0m
+[31m[OK][0m In the field since ......... [37mDec 2025[0m
+[31m[OK][0m Projects delivered ......... [37m12+[0m
+[33m[..][0m current_focus .............. [37mVibe Coding · Low-Code · Code Raiz[0m
+[33m[..][0m learning .................. [37mPHP | SQL | Supabase | C | C# | Java[0m
+[37m[=>][0m next_goal ................. [37mSoftware / Data Engineering[0m
+[1;31m[SYSTEM][0m Ready. Always building. [31m❯[0m
 ```
 
-> 📌 **Visão:** transformar código em produto. Do terminal da infraestrutura ao deploy de um SaaS completo — sem pular etapas, sem medo de sujar as mãos.
+<br />
+
+<p align="center">
+  <img src="assets/loader.svg" alt="sincronizando" width="360" />
+</p>
+
+<p align="center">
+  <img src="assets/pulse.svg" alt="" width="10" height="10" /> <b>ordem:</b> ideia → arquitetura → código → deploy → iteração
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="860" />
+</p>
 
 ---
 
-## ⚡ GitHub STATISTICS
+## <img src="assets/pulse.svg" alt="" width="14" height="14" /> 05 · PROJETOS EM DESTAQUE
 
-<div align="center">
-  <i>Telemetria da conta — leituras do sistema.</i>
-</div>
+<p align="center">
+  <sup><code>[ delivered_projects · 12+ builds ]</code></sup>
+</p>
+
+<br />
+
+| | | |
+| :-: | :-: | :-: |
+| 🛒 **E-COMMERCE**<br><sub>B2C/B2B · catálogos · checkout · integrações</sub><br><img src="https://img.shields.io/badge/STATUS-DELIVERED-ff0000?style=flat-square&labelColor=111111" alt="delivered" /> | 🚀 **LANDING PAGES**<br><sub>conversão · copy · design orientado a objetivo</sub><br><img src="https://img.shields.io/badge/STATUS-DELIVERED-ff0000?style=flat-square&labelColor=111111" alt="delivered" /> | 📊 **CRMs**<br><sub>pipelines · gestão de clientes · automação</sub><br><img src="https://img.shields.io/badge/STATUS-DELIVERED-ff0000?style=flat-square&labelColor=111111" alt="delivered" /> |
+| 📱 **APPS MOBILE**<br><sub>mobile-first · protótipo → publicação</sub><br><img src="https://img.shields.io/badge/STATUS-DELIVERED-ff0000?style=flat-square&labelColor=111111" alt="delivered" /> | ☁️ **SAAS**<br><sub>dashboards · multi-tenant · produto como serviço</sub><br><img src="https://img.shields.io/badge/STATUS-DELIVERED-ff0000?style=flat-square&labelColor=111111" alt="delivered" /> | 🔮 **PRÓXIMO BUILD**<br><sub>Eng. de Software &amp; Engenharia de Dados</sub><br><img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-111111?style=flat-square&labelColor=111111&color=ff0000" alt="in progress" /> |
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="860" />
+</p>
+
+---
+
+## <img src="assets/pulse.svg" alt="" width="14" height="14" /> 06 · GITHUB STATISTICS
+
+<p align="center">
+  <sup><code>[ github_telemetry · leituras da conta ]</code></sup>
+</p>
 
 <br />
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Igoor-og&show_icons=true&count_private=true&rank_icon=github&hide_border=true&border_radius=16&bg_color=0a0e17&title_color=00E5FF&text_color=c9d1d9&icon_color=ff2e97" alt="GitHub Stats" />
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Igoor-og&show_icons=true&count_private=true&rank_icon=github&hide_border=true&border_radius=16&bg_color=111111&title_color=ff2222&text_color=e6edf3&icon_color=ff0000" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Igoor-og&theme=dark&background=0a0e17&border=0a0e17&stroke=0d1117&ring=00E5FF&fire=f72585&currStreakNum=00E5FF&sideNums=c9d1d9&currStreakLabel=ff2e97&sideLabels=8b949e&dates=8b949e&border_radius=16" alt="GitHub Streak Stats" />
+    <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Igoor-og&theme=dark&background=0a0a0a&border=0a0a0a&stroke=161616&ring=ff0000&fire=ff4444&currStreakNum=ffffff&sideNums=f0f0f0&currStreakLabel=ff2222&sideLabels=8b8b8b&dates=8b8b8b&border_radius=16" alt="GitHub Streak Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoor-og&layout=donut-vertical&hide_border=true&border_radius=16&bg_color=0a0e17&title_color=00E5FF&text_color=c9d1d9&icon_color=ff2e97&langs_count=10" alt="Top Languages" height="260em" />
+    <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igoor-og&layout=donut-vertical&hide_border=true&border_radius=16&bg_color=111111&title_color=ff2222&text_color=e6edf3&icon_color=ff0000&langs_count=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -170,7 +223,7 @@
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Igoor-og&bg_color=0a0e17&color=00E5FF&line=ff2e97&point=39ff14&area=true&hide_border=true&area_color=0a0e17&radius=16&custom_title=GITHUB%20ACTIVITY%20LOG" alt="GitHub Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Igoor-og&bg_color=0a0a0a&color=ff4d4d&line=ff0000&point=ff0000&area=true&hide_border=true&area_color=180404&radius=16&custom_title=GITHUB%20ACTIVITY%20LOG" alt="GitHub Activity Graph" width="100%" />
   </a>
 </p>
 
@@ -178,17 +231,21 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Igoor-og&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=12&margin-h=12&title_color=00E5FF" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Igoor-og&theme=onedark&title_color=ff0000&text_color=ffffff&bg_color=0a0a0a&no-frame=true&column=6&margin-w=12&margin-h=12" alt="GitHub Trophies" width="100%" />
   </a>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="860" />
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## <img src="assets/pulse.svg" alt="" width="14" height="14" /> 07 · CONTRIBUTION SNAKE
 
-<div align="center">
-  <i>Módulo de atividade — a cobra engole as contribuições.</i>
-</div>
+<p align="center">
+  <sup><code>[ activity_module · a cobra engole as contribuições ]</code></sup>
+</p>
 
 <br />
 
@@ -204,7 +261,7 @@
   <summary><b>🔧 Ativar cobrinha PERSONALIZADA com suas contribuições (opcional)</b></summary>
 
   <br />
-  Crie o arquivo <code>.github/workflows/snake.yml</code> no repositório do seu perfil:
+  No repositório do seu perfil, crie <code>.github/workflows/snake.yml</code>:
 
   <br />
 
@@ -246,27 +303,45 @@
 
 </details>
 
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="860" />
+</p>
+
 ---
 
-## 📡 REDES SOCIAIS & CONTATO
+## <img src="assets/pulse.svg" alt="" width="14" height="14" /> 08 · REDES SOCIAIS &amp; CONTATO
+
+<p align="center">
+  <sup><code>[ comms_module · canais abertos ]</code></sup>
+</p>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/Igoor-og">
-    <img src="https://img.shields.io/badge/GitHub-Igoor--og-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e17" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Igoor--og-111111?style=for-the-badge&logo=github&logoColor=ff0000" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Igor%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e17" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Igor%20Almeida-111111?style=for-the-badge&logo=linkedin&logoColor=ff0000" alt="LinkedIn" />
   </a>
   <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-ff2e97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e17" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-Contato-ff0000?style=for-the-badge&labelColor=111111&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://SEU_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visualizar-00E5FF?style=for-the-badge&logo=internetexplorer&logoColor=white&labelColor=0a0e17" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visualizar-ff0000?style=for-the-badge&labelColor=111111&logo=internetexplorer&logoColor=white" alt="Portfólio" />
   </a>
 </p>
 
 <p align="center">
-  <sub>⚠️ Substitua <code>SEU_LINKEDIN</code>, <code>SEU_EMAIL</code> e <code>SEU_PORTFOLIO</code> pelos seus links reais.</sub>
+  <img src="https://img.shields.io/badge/FREELA%20%C2%B7%20COLABORA%C3%87%C3%83O-aberto-ff0000?style=for-the-badge&labelColor=111111" alt="Open to work" />
+</p>
+
+<p align="center">
+  <sup>⚠️ Substitua <code>SEU_LINKEDIN</code>, <code>SEU_EMAIL</code> e <code>SEU_PORTFOLIO</code> pelos seus links reais.</sup>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="860" />
 </p>
 
 ---
@@ -274,7 +349,7 @@
 ## 🏁 FIM DA TRANSMISSÃO
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1000&color=F72585&center=true&vCenter=true&width=560&height=34&lines=SYSTEM+ONLINE+%E2%97%8F+ALWAYS+BUILDING;END+OF+TRANSMISSION+%E2%94%80+OVER+%26+OUT" alt="Footer Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1000&color=FF0000&center=true&vCenter=true&width=560&height=34&lines=SYSTEM+ONLINE+%E2%97%8F+ALWAYS+BUILDING;END+OF+TRANSMISSION+%E2%94%80+OVER+%26+OUT" alt="Footer Typing Animation" />
 </p>
 
 <p align="center">
@@ -282,7 +357,7 @@
 </p>
 
 <p align="center">
-  <sub>Construído com <b>Markdown + HTML</b> · 100% compatível com a renderização do GitHub · Cyberpunk Grade</sub>
+  <sub>Construído com <b>Markdown + HTML + SVG</b> · 100% compatível com a renderização do GitHub · Black &amp; Red Edition</sub>
 </p>
 
 <hr />
@@ -290,3 +365,14 @@
 <p align="center">
   <sub>👽 <i>Se o futuro for uma interface, eu vou ajudar a construí-la.</i></sub>
 </p>
+
+<details>
+  <summary><b>📦 Como usar este README (setup)</b></summary>
+
+  1. Crie o repositório público <code>Igoor-og/Igoor-og</code>.
+  2. Copie o conteúdo deste arquivo para o <code>README.md</code> da raiz.
+  3. Copie a pasta <code>assets/</code> junto (contém o banner, divisores, pulso, loader e barras de habilidade — todos SVG animados).
+  4. Substitua <code>SEU_LINKEDIN</code>, <code>SEU_EMAIL</code> e <code>SEU_PORTFOLIO</code>.
+  5. (Opcional) Configure a cobrinha personalizada no bloco da seção <b>07</b>.
+
+</details>

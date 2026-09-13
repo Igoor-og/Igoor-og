@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="10" viewBox="0 0 360 10">
+  <rect width="360" height="10" rx="5" fill="#161616"/>
+  <rect y="1" height="8" rx="4" fill="#ff0000" width="170">
+    <animate attributeName="x" values="0;360;0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
